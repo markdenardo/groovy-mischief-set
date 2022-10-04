@@ -6,3 +6,5 @@ const flt=(i,o,m)=>(src(i).modulateScrollY(m,f).out(o))
 nz(o0)
 flt(o0,o1,o0)
 render(o1)
+// song 02
+voronoi().out()
